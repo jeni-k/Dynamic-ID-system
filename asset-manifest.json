@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dynamic-ID-system/static/css/main.e6c13ad2.css",
+    "main.js": "/Dynamic-ID-system/static/js/main.a0bc6c3f.js",
+    "static/js/488.7a876c9d.chunk.js": "/Dynamic-ID-system/static/js/488.7a876c9d.chunk.js",
+    "index.html": "/Dynamic-ID-system/index.html",
+    "main.e6c13ad2.css.map": "/Dynamic-ID-system/static/css/main.e6c13ad2.css.map",
+    "main.a0bc6c3f.js.map": "/Dynamic-ID-system/static/js/main.a0bc6c3f.js.map",
+    "488.7a876c9d.chunk.js.map": "/Dynamic-ID-system/static/js/488.7a876c9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a0bc6c3f.js"
+  ]
+}
